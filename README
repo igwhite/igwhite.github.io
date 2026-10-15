@@ -1,15 +1,38 @@
-# Professional Website (GitHub Pages)
+# Academic & Professional Website
 
-A lightweight, markdown-driven personal website configured for deployment via GitHub Pages.
+A lightweight, responsive, and Markdown-driven portfolio website designed for deployment on GitHub Pages. Built with zero-dependency native web technologies, client-side Markdown rendering, and an industrial color palette.
 
-## Color Scheme Palette
-- `#22223b` — Dark Slate Violet (Primary Backgrounds / Text)
-- `#4a4e69` — Slate Blue (Brand Primary / Headings)
-- `#9a8c98` — Muted Mauve (Accents / Highlights)
-- `#c9ada7` — Soft Rose (Secondary Accents / Borders)
-- `#f2e9e4` — Light Cream (Main Background / Light Text)
+---
 
-## Local Setup
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+## 🎨 Color Scheme Palette
+
+The design utilizes a cohesive five-color palette built on standard CSS custom properties:
+
+| Color Name | Hex Code | Description & Usage |
+| :--- | :--- | :--- |
+| **Charcoal** | `#565264` | Deep, smoky industrial tone used for main headers, footers, and code blocks. |
+| **Dim Grey** | `#706677` | Grounded, resilient grey used for primary brand elements and subheadings. |
+| **Dusty Mauve** | `#a6808c` | Dusky mauve-grey accent used for link highlights, active states, and borders. |
+| **Almond Silk** | `#ccb7ae` | Gentle beige-pink used for navigation link defaults and secondary accents. |
+| **Dust Grey** | `#d6cfcb` | Soft, stone-toned grey used for the primary website background. |
+
+---
+
+## 📁 Repository Structure
+
+```text
+my-website/
+├── .nojekyll           # Disables Jekyll processing on GitHub Pages
+├── index.html          # Main HTML entry point and navigation shell
+├── README.md           # Project documentation
+├── css/
+│   ├── variables.css   # Color palette tokens and global CSS variables
+│   ├── style.css       # Core layout, header, and footer styles
+│   └── components.css  # Card components, buttons, and Markdown typography
+├── js/
+│   └── main.js         # Client-side hash router and Markdown fetcher
+└── content/            # Core site content written in Markdown
+    ├── teaching.md     # Teaching philosophy, courses, and mentorship
+    ├── research.md     # Research themes, publications, and grants
+    ├── outreach.md     # Public engagement, service, and media
+    └── projects.md     # Open-source tools, applications, and frameworks
