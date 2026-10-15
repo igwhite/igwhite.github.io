@@ -1,25 +1,25 @@
 :root {
   /* Color Palette */
-  --color-dark-violet: #22223b;
-  --color-slate-blue: #4a4e69;
-  --color-muted-mauve: #9a8c98;
-  --color-soft-rose: #c9ada7;
-  --color-light-cream: #f2e9e4;
+  --color-charcoal: #565264;     /* Deep, smoky industrial tone */
+  --color-dim-grey: #706677;     /* Grounded, resilient grey */
+  --color-dusty-mauve: #a6808c;  /* Vintage mauve-grey accent */
+  --color-almond-silk: #ccb7ae;  /* Warm beige-pink highlight */
+  --color-dust-grey: #d6cfcb;    /* Soft dusted stone background */
 
   /* Semantic Color Mapping */
-  --bg-primary: var(--color-light-cream);
+  --bg-primary: var(--color-dust-grey);
   --bg-surface: #ffffff;
-  --bg-dark: var(--color-dark-violet);
+  --bg-dark: var(--color-charcoal);
   
-  --text-main: var(--color-dark-violet);
-  --text-muted: var(--color-slate-blue);
-  --text-light: var(--color-light-cream);
+  --text-main: var(--color-charcoal);
+  --text-muted: var(--color-dim-grey);
+  --text-light: var(--color-dust-grey);
   
-  --brand-primary: var(--color-slate-blue);
-  --brand-accent: var(--color-soft-rose);
-  --brand-highlight: var(--color-muted-mauve);
+  --brand-primary: var(--color-dim-grey);
+  --brand-accent: var(--color-almond-silk);
+  --brand-highlight: var(--color-dusty-mauve);
   
-  --border-color: rgba(154, 140, 152, 0.3);
+  --border-color: rgba(112, 102, 119, 0.25);
 
   /* Typography */
   --font-heading: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
