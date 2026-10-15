@@ -25,7 +25,7 @@ header {
   position: sticky;
   top: 0;
   z-index: 100;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(86, 82, 100, 0.15);
 }
 
 .nav-container {
@@ -39,8 +39,9 @@ header {
 .logo {
   font-size: 1.5rem;
   font-weight: 700;
-  color: var(--color-light-cream);
+  color: var(--color-dust-grey);
   text-decoration: none;
+  letter-spacing: -0.02em;
 }
 
 .nav-links {
@@ -50,7 +51,7 @@ header {
 }
 
 .nav-links a {
-  color: var(--color-soft-rose);
+  color: var(--color-almond-silk);
   text-decoration: none;
   font-weight: 500;
   transition: color var(--transition-fast);
@@ -58,7 +59,7 @@ header {
 
 .nav-links a:hover,
 .nav-links a.active {
-  color: var(--color-light-cream);
+  color: var(--color-dust-grey);
 }
 
 /* Main Container */
@@ -73,13 +74,14 @@ main {
 /* Footer */
 footer {
   background-color: var(--bg-dark);
-  color: var(--color-soft-rose);
+  color: var(--color-almond-silk);
   text-align: center;
   padding: 1.5rem 1rem;
   margin-top: auto;
   font-size: 0.9rem;
+  border-top: 1px solid rgba(204, 183, 174, 0.15);
 }
 
 footer a {
-  color: var(--color-light-cream);
+  color: var(--color-dust-grey);
 }
