@@ -1,0 +1,15 @@
+# Professional Website (GitHub Pages)
+
+A lightweight, markdown-driven personal website configured for deployment via GitHub Pages.
+
+## Color Scheme Palette
+- `#22223b` — Dark Slate Violet (Primary Backgrounds / Text)
+- `#4a4e69` — Slate Blue (Brand Primary / Headings)
+- `#9a8c98` — Muted Mauve (Accents / Highlights)
+- `#c9ada7` — Soft Rose (Secondary Accents / Borders)
+- `#f2e9e4` — Light Cream (Main Background / Light Text)
+
+## Local Setup
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
