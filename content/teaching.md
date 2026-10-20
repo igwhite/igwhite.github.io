@@ -1,23 +1,29 @@
-# Teaching & Pedagogy
+# Teaching Philosophy
 
-My teaching philosophy is built on active learning, inclusive mentorship, and bridging theoretical concepts with hands-on computational tools. I aim to cultivate critical inquiry and technical independence in every classroom.
+I view education as a transformative process that empowers students to think critically, solve open-ended problems, and grow both intellectually and personally. I ground my pedagogy in an inclusive, evidence-based, and student-centered approach built on three core pillars:
 
-## Philosophy & Approach
+### Transparent Expectations & Clear Communication
+- I frame learning outcomes using Bloom’s Taxonomy directly within syllabi, lectures, and assignments so students understand the purpose behind every concept.
 
-- **Student-Centered Learning:** Emphasizing problem-based learning where students engage directly with primary literature and real-world datasets.
-- **Inclusive Classroom Environment:** Creating accessible learning pathways for students from diverse technical backgrounds.
-- **Tool-Driven Pedagogy:** Integrating modern computational workflows (Git, Python, interactive notebooks) early in the curriculum.
+### Active & Collaborative Learning
+- I apply experiential learning models in my courses, drawing on Kolb’s Experiential Learning Cycle through project-based learning, peer instruction, and structured group discussions.
+
+### Problem-Solving Over Syntax
+- I cultivate a process-first mindset in my students, training them to look beyond syntax debugging and adopt explicit problem-solving strategies inspired by *Think Like a Programmer*
+- I demystify the "hidden curriculum" of computing by directly teaching algorithmic habits of mind, including problem deconstruction, restatement, systematic experimentation, and learning from failure.
 
 ---
 
-## GW: Current Courses
+## The George Washington University
+### Current Courses
 - **CSCI 6202** *(Fall 2026)*  
 - **CSCI 6531** *(Fall 2026)*
 
-### GW: Future Courses
+### Future Courses
 - **CSCI 1112** *(Spring 2027)*  
 - **CSCI 6531** *(Spring 2027)*  
 
+## Prior Courses
 ### North Carolina State University
 - **CSC 595 Cybersecurity Practicum** *(Fall 2025)*
 Application of cybersecurity principles and computer science and engineering to solve a cybersecurity problem. A project with comprehensive written and oral project report is required.
