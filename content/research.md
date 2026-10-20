@@ -18,9 +18,9 @@ Building open-source tools and data pipelines that adhere to FAIR (Findable, Acc
 ## Selected Publications
 
 <div id="publications"
-     data-src="/data/publications.json"
+     data-src="igwhite.github.io/data/publications.json"
      data-highlight="J Doe"></div>
-<script src="/assets/js/publications.js"></script>
+<script src="igwhite.github.io/assets/js/publications.js"></script>
 
 ---
 
