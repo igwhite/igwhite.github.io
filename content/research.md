@@ -17,8 +17,10 @@ Building open-source tools and data pipelines that adhere to FAIR (Findable, Acc
 
 ## Selected Publications
 
-1. **Author, A.**, & Co-Author, B. (2025). *Interpretable Architecture for High-Dimensional Visualizations*. Journal of Computational Systems, 12(3), 145–162.
-2. **Author, A.**, Collaborator, C., & Advisor, D. (2024). *Streamlining Static Web Workflows for Scientific Dissemination*. Proceedings of the IEEE International Conference on Data Engineering (ICDE).
+<div id="publications"
+     data-src="/data/publications.json"
+     data-highlight="J Doe"></div>
+<script src="/assets/js/publications.js"></script>
 
 ---
 
